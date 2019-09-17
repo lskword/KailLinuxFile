@@ -80,5 +80,83 @@ Amo2015链接: https://pan.baidu.com/s/1bGJYSu 密码: pq5q
   https://parrotsec-cn.org/t/topic/3325
 ## 常用渗透包
   https://asura88.github.io/2018/11/25/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E9%9B%86%E5%90%88/
+  
+  
+  
+  
+  # 针对人工智能
+ Python书籍：链接:https://pan.baidu.com/s/1RA2mKETrd13i0dxfZubzCQ 密码:3255
+
+Python视频教程：链接:https://pan.baidu.com/s/1oelzLBvYvKRlYMvBzmMa3Q 密码:b3oq
+
+Python视频教程：链接:https://pan.baidu.com/s/1DNfH3237ilrInUQnv173BQ 密码:nxil
+
+
+
+机器学习大众用书：链接:https://pan.baidu.com/s/1ABDUl8op8Z5Uy3yc7toLkQ 密码:5oox
+
+机器学习视频：链接:https://pan.baidu.com/s/1LzFiF4c8Ga1uzIZ1-j58hw 密码:e0e6
+
+机器学习视频：链接:https://pan.baidu.com/s/1Yqn4i27Lh4BgU_ecfa6tKg 密码:4mie
+
+机器学习基石：链接:https://pan.baidu.com/s/1aWljdjqagIWueqFnwGquaA 密码:brvq
+
+
+
+自然语言处理（带课件和代码）：链接:https://pan.baidu.com/s/1C7PtnunXacUvEPvjFGCpMA  密码:7nbc
+
+深度学习实战篇（人脸检测）：链接:https://pan.baidu.com/s/1pFqW6vFiZP50tY-u-Vp0Ng 密码:6itv
+
+深度学习（花书）：链接:https://pan.baidu.com/s/1cPpfbFppAoQH9r6mVsUaGg 密码:u37t
+
+
+
+计算机视觉（OpenCV图像处理）：链接:https://pan.baidu.com/s/1lWRz6JSKEQ29DCAGRm7oIA 密码:b8uc
+
+华中红客外挂编程：链接:https://pan.baidu.com/s/1XjG7AG7eHzJqbKGY7xT68w  密码:k8yw
+
+
+
+易语言（从入门到精通）：链接:https://pan.baidu.com/s/1WWPLk5zS7JAhSBQzDhMdJA 密码:3scu
+
+汇编：链接:https://pan.baidu.com/s/1ZkoIfc5pijDJlaSIXAm7-A 密码:nbgj
+
+
+
+大数据（Hadoop与spark）：链接:https://pan.baidu.com/s/1iDyLwAbLNW0YqDlWECzYdA 密码:bqt1
+
+链接:https://pan.baidu.com/s/1aoqiK0m_dpuOYClJ_fyL4w  密码:izm0
+
+
+
+Android视频教程：链接:https://pan.baidu.com/s/1DqkeWqph05qwEZS0rlwBQg 密码:z4mx
+
+
+
+LInux（大家最熟悉的兄弟连）：链接:https://pan.baidu.com/s/15g5akELYIqmJik8GNTrZVg  密码:zsbi
+
+
+
+Java开发（传智博客）：链接:https://pan.baidu.com/s/1rK1-NKAMNsBYqwu8oXSTmA 密码:6oaw
+
+
+
+C/C++（高清带课件）：链接:https://pan.baidu.com/s/1XmbWL2M0j3rxTxmQL_EW8w  密码:2hui
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 ## 搜索地址
   http://www.daysou.com/s?q=渗透&start=0&isget=1&tp=baipan&cl=0&line=3
